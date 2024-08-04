@@ -11,7 +11,7 @@ describe('Triangle', () => {
 
   describe('Text', () => {
     test('should set text', () => {
-      const text = 'SVG';
+      const text = 'ABC';
       const triangle = new Triangle(text);
       expect(triangle.text).toBe(text);
     });
@@ -19,7 +19,7 @@ describe('Triangle', () => {
 
   describe('Text Color', () => {
     test('should set text color', () => {
-      const textColor = 'white';
+      const textColor = 'purple';
       const triangle = new Triangle('ABC', textColor, 'yellow');
       expect(triangle.textColor).toBe(textColor);
     });
@@ -27,7 +27,7 @@ describe('Triangle', () => {
 
   describe('Shape Color', () => {
     test('should set shape color', () => {
-      const shapeColor = 'blue';
+      const shapeColor = 'yellow';
       const triangle = new Triangle('ABC', 'purple', shapeColor);
       expect(triangle.shapeColor).toBe(shapeColor);
     });
