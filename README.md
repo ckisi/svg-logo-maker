@@ -16,7 +16,8 @@ Open the terminal and run "node index". Then fill out the questions; for color q
 ![](./assets/svglogomakerss2.png)
 
 ## Links
-https://github.com/ckisi/svg-logo-maker
+- Repository: https://github.com/ckisi/svg-logo-maker
+- Video: https://drive.google.com/file/d/17h3A1BbIvvedo8QrzX-dKR1izWjKweBc/view
 
 ## Credits
 Xpert Learning Assistant for help with asynchronous code.
